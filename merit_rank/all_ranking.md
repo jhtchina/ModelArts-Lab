@@ -709,12 +709,13 @@
      * 实际应用案例：     
      * 微认证：
      
- EasyArch-W：2个积分，贡献点：
-     * 完成案例：[第一期](https://github.com/huaweicloud/ModelArts-Lab/issues/49#issuecomment-521709116)，[第二期](https://github.com/huaweicloud/ModelArts-Lab/issues/113#issuecomment-521789457)
+* jhtchina：2个积分，贡献点：
+     * 完成案例：[第一期](https://github.com/huaweicloud/ModelArts-Lab/issues/49#issuecomment-502511454)，[第二期](https://github.com/huaweicloud/ModelArts-Lab/issues/113#issuecomment-521579028)
      * 体验文章：
      * 扩展案例：
-     * 实际应用案例：
-     * 微认证：
+     * 实际应用案例：     
+     * 微认证：   
+     
      
 * zhd22：1个积分，贡献点：
      * 完成案例：
@@ -722,6 +723,8 @@
      * 扩展案例：
      * 实际应用案例：
      * 微认证：
+     
+  
      
 * huangmeiling：1个积分，贡献点：
      * 完成案例：
@@ -1128,6 +1131,19 @@
      * 扩展案例：
      * 实际应用案例：
      * 微认证：
+   
+* EasyArch-W：1个积分，贡献点：
+     * 完成案例：[第一期](https://github.com/huaweicloud/ModelArts-Lab/issues/49#issuecomment-521709116)
+     * 体验文章：
+     * 扩展案例：
+     * 实际应用案例：
+     * 微认证：
 
 <B>共计159位参与者</B>
 
+ EasyArch-W：2个积分，贡献点：
+     * 完成案例：[第一期](https://github.com/huaweicloud/ModelArts-Lab/issues/49#issuecomment-521709116)，[第二期](https://github.com/huaweicloud/ModelArts-Lab/issues/113#issuecomment-521789457)
+     * 体验文章：
+     * 扩展案例：
+     * 实际应用案例：
+     * 微认证：
